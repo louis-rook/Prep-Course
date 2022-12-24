@@ -1,0 +1,13 @@
+* Variables
+    Una variable es como un cajon en donde se almacenan juguetes, para poder usarlos mas adelante, osea una variable es donde se almacena algo que se necesite trabajar mas adelante.
+ * Strings
+    Un String es una secuancia de caracteres usado para representar un texto, ejemplo el primer nombre de una persona, su nombre completo, los cuales los representas mediante 
+    comillas sean simples ('') o dobles(" ").
+ * Funciones (argumentos, `return`)
+    Es un bloque de codigo de una acción que necesites mas adelante, por ejemplo una funcion suma, la cual necesitas le das dos numeros a sumar estos serian los argumentos, luego la 
+    función hace la operación y me da el resultado de ella, este seria el 'return'
+ * Declaraciones `if`
+    if es el condicional si, en ingles, usado para realizar una acción si cumple o no una condicion, por ejemplo, Si mañana hay clases tendre un examen, si se cumple esta condición 
+    mañana tendras un examen, si no se cumple no lo tendras.
+ * Valores booleanos (`true`, `false`)
+    Los valores true y false, son valores de verdadero y falso, respectivamente, usados para preguntas, que solo necesitas saber si son verdaderas o falsas.
