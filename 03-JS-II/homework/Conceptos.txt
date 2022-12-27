@@ -1,0 +1,13 @@
+- FOR 
+    Es una estructura de control, que te permitira repetir una instrucción las veces que quieras, por ejemplo, cuando quieres que el computador te cuente del 1 al 100.
+
+- &&
+    Es un operador logico, que funciona como la expresión "Y", la cual solo se cumple si las dos condiciones son verdaderas, por ejemplo cuando se necesita salir de la habitación
+    cerrada, tienes que "abrir la puerta y salir de la habitación", si no abre la puerta no podras salir.
+
+- ||
+    Tambien es un operador logico, que hace referencia a la expresión "O", la cual si una de las dos es verdadera, por ejemplo cuando vas a elegir entre dos sabores de helados,
+    si hay un helado sabor a fresa o de maracuya, es verdadera aunque solo tenga de fresa y no de maracuya y viseversa.
+
+- !
+    Este operador es usado para evaluar que una condición no es verdadera, osea que es verdadera cuando es negada la condicion.
