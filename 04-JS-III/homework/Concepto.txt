@@ -1,0 +1,3 @@
+Que es un array?
+    Un array es como contenedor, en donde se puede guardar varios objetos o hasta otros contenedores, de cualquier tipo. Ejemplo, 
+    las notas de una materia de un alumno, las diferentes notas serian un objeto idependiente, que a su vez hace parte de un array completo con las notas de todos sus compañeros.  
