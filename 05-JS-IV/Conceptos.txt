@@ -1,0 +1,19 @@
+* Objetos
+    Es contenedor que a diferencia del array que solo guarda datos, este objeto te guarda información sobre esos datos, Ejemplo, la información de una persona, 
+    como su nombre, sexo y edad, en un array los encontrabas asi [luis, M, 30], en un objeto seria asi {nombre : luis , sexo : M, edad = 30}, osea que puedes
+    saber cual es la edad de luis, con solo busca edad y no como el array que tienes que saber en posición se guardo la edad.
+
+* Propiedades
+    Son la manera como identificas los datos que agregas a un objeto, ejemplo, en un objeto persona la propiedad nombre de esa persona puede ser 'Luis' y su edad es el identicador
+    de la propiedad edad.
+
+* Métodos
+    Son las funciones que declaramos dentro de un objeto, la cual usaremos en los casos, como por ejemplo queremos calcular la edad del objeto persona mediante las propiedades fechas
+    que ya guardadas en dicho objeto.
+
+* Bucle `for…in`
+    Es una bucle que a diferencia del for, usado anteriormente, este interaciona con todas las propiedades del objeto, el recibe una variable que interactua con las propiedades
+    del objeto.
+
+* Notación de puntos vs notación de corchetes
+    son la manera como accedemos a las propiedades de cada objeto, las cuales funciona de manera similar.
