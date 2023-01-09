@@ -1,0 +1,5 @@
+* `prototype`
+    Es un mecanismo usado, para extender los objetos o metodos usados en una clase, esto con el fin de reducir el uso de los recursos de los equipos.
+
+* _Constructors_ (de Clases)
+    Es un metodo especial para crear e inicializar un objeto creado a partir de una clase.
