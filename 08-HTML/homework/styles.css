@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-image: url('https://media.istockphoto.com/id/1133335984/es/vector/fondo-de-colecci%C3%B3n-de-comida-r%C3%A1pida-vintage-colecci%C3%B3n-de-comida-r%C3%A1pida-vectorial-dibujado-a.jpg?s=2048x2048&w=is&k=20&c=FP2B505xYYvgjI7S86jmX9D44XD7zHzILpyAW44dkgg=');
+}
+
+h1 {
+    color: white;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    
+    height: 600px;
+    width: 500px;
+    background-color: transparent;
+    padding: 50px;
+    border: 2px solid white;
+    display: contents;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
