@@ -1,0 +1,2 @@
+* Funciones Callback
+    Son un tipo de función que le pasa parametros a otras funciones, osea se usan cuando queremos llamar una función dentro de otra función, por asi decirlo.
